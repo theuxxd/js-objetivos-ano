@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: royalblue;
+    background-color: rgb(230, 226, 10);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 }
